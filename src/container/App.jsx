@@ -6,6 +6,7 @@ import Footer from '../components/Footer';
 
 
 import '../css/App.css'
+import Login from '../components/Login';
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
 
     <>
       <Navbar/>
-      <Body/>
+      <Login/>
       <Footer/>
     </>
   )

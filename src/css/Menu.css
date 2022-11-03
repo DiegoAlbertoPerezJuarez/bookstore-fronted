@@ -53,7 +53,6 @@ html, body {
     padding: 0;
     background-color: #fff;
     font-family: 'Roboto', sans-serif;
-    overflow: hidden;
 }
 
 #trigger, #burger, #burger:before, #burger:after {
