@@ -26,7 +26,6 @@ function Register() {
                     <Label type={"date"} id={"date"} placeholder={"Write your birthday"} text={"B-day"}/>
                     <Label type={"number"} id={"phone"} placeholder={"Write your phone number"} text={"Phone number"}/>
                     <Label type={"text"} id={"adress"} placeholder={"Write your adress"} text={"Adress"}/>
-
                 </form>
             </div>
         </div>
