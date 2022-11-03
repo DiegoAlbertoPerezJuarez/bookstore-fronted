@@ -7,7 +7,6 @@ const baseURL = "localhost:8080/order/register";
 
 
 function Register() {
-
     const [email, setEmail] = useState("");
     const [password, setPassword] =  useState("");
     const [name, setName] = useState("");
