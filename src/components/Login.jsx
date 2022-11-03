@@ -27,7 +27,6 @@ function Login() {
     <div className='loginContainer'>
       <div className="loginForm">
 
-        {email}
 
         <h2 className='title'>Login</h2>
 
