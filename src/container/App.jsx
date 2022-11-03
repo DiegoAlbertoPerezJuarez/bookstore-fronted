@@ -1,16 +1,20 @@
-import Card from '../components/Card';
+
+import Navbar from '../components/Navbar';
+import Body from '../components/Body';
 import Footer from '../components/Footer';
-import Menu from '../components/Menu';
+
+
+
 import '../css/App.css'
+
 
 function App() {
 
   return (
+
     <>
-      <Menu/>
-      <br></br>
-      <br></br>
-      <Card></Card>
+      <Navbar/>
+      <Body/>
       <Footer/>
     </>
   )
