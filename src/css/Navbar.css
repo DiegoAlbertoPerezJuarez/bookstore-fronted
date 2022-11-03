@@ -52,15 +52,13 @@
 
 .navbar-distributed .navbar-right{
   width: 30%;
-  background-color: aquamarine;
 }
 
 .navbar-logo-book{
-    height: 120px;
+    height: 100px;
     width: auto;
     align-items:center;
     margin: 10px 10px 0px;
-    background-color: blue;
     
   }
 
